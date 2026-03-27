@@ -1,0 +1,5 @@
+{
+  "name": "GIACOTRAVEL AI",
+  "description": "Pianificatore di viaggi IA semplice, veloce e intuitivo.",
+  "requestFramePermissions": ["geolocation"]
+}
